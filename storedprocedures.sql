@@ -1,0 +1,23 @@
+-- Remueva los -- del SP que desea ejecutar
+--
+-- SP CHECK
+-- call AllUsers;
+-- call SearchForAccess ('davmolina');
+-- call SearchByUserName('dcampos');
+-- call AllUsersFullList;
+-- call AddUser(3535,'jcalvo','tigre123','Jose Pablo Calvo');
+-- call UpdateUser(3535,'jcalvo','tigre123','Jose Calvo');
+-- call DeleteUser(3535);
+-- call AddTipo(2,'UI crossPlatform','Verif. de UI en diferentes navegadores');
+-- call UpdateTipo(1,'UI crossPlatform','Verif. compatibilidad navegadores');
+-- call DeleteTipo (2);
+-- call SearchByIDTipo(1);
+-- call AllTipos();
+-- call AddTest(1010,'2013-10-14 12:00:00','prueba en app 11x',1,2505, 'Abierto');
+-- call UpdateTest(1010,'2013-10-14 18:00:00','prueba general system alfa',1,2505, 'Abierto');
+-- call DeleteTest(1010);
+-- call AllTests;
+-- call SearchByIdtests(1010);
+-- ---------
+
+
